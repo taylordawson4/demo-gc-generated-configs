@@ -1,1 +1,1 @@
-# demo-gc-generated-configs
+# demo-gc-intended-configs
